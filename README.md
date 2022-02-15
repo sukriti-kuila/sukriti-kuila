@@ -1,3 +1,5 @@
+<img src="http://propulsive.in/assets/img/service-icon/web.gif">
+
 ### Hi there 👋, I am Sukriti Kuila from India
 #### Web Developer & Web3.0 Enthusiast
 <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" align="right" height="300">
@@ -22,9 +24,11 @@ Skills:
 - 🌱 I’m currently learning Nodejs 
 - 👯 I’m looking to collaborate on Javascript based project 
 - 😄 Pronouns: He/Him 
+- 💬 Ask me about **anything**
+- 📫 How to reach me **sukritikuila22@gmail.com**
 - ⚡ Fun fact: Love to dig cricket stats 
 
-
+## Social Media Links 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sukriti-kuila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sukriti_kuila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/skuila22/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sukriti-kuila-8054451b0/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukriti-kuila)](https://github.com/anuraghazra/github-readme-stats)
