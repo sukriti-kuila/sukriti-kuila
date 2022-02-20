@@ -1,7 +1,7 @@
 <img src="http://propulsive.in/assets/img/service-icon/web.gif">
 
-## Hi there 👋, I am Sukriti Kuila from India
-### Web Developer & Web3.0 Enthusiast
+# Hi there 👋, I am Sukriti Kuila from India
+## Web Developer & Web3.0 Enthusiast
 <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" align="right" height="300">
 
 Skills: 
