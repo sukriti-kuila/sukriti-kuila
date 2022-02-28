@@ -24,7 +24,7 @@ Skills:
 <a href="https://jquery.com/"><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195509/jquery-61c323b5e33214d6c3d442ed276eab68.png" alt="jQuery" height="40"></a>
  
  <!-- Node.js --> 
-<a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/591px-Node.js_logo_2015.svg.png?20150315010906" alt="nodejs" width="55" height="40" align="left"/> </a>
+<a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/591px-Node.js_logo_2015.svg.png?20150315010906" alt="nodejs" width="50" height="40" align="left"/> </a>
 </p>
  
 <!-- java -->
