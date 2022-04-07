@@ -3,7 +3,7 @@
 Hi there 👋, I am Sukriti Kuila from India 
 </h1>
 <h2 align="center">
- Web Dev
+ Web Developement
  </h2> 
 <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" align="right" height="300">
 
