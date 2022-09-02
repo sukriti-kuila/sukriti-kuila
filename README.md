@@ -5,7 +5,7 @@ Hi there 👋, I am Sukriti Kuila from India
 <h2 align="center">
  Web Developement
  </h2> 
-<img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif" align="right" height="300">
+
 
 - 🌱 I’m currently learning Nodejs 
 - 👯 I’m looking to collaborate on Javascript based project 
@@ -39,7 +39,7 @@ Hi there 👋, I am Sukriti Kuila from India
 ## Social Media Links 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sukriti-kuila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sukriti_kuila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/skuila22/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sukriti-kuila-8054451b0/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukriti-kuila)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukriti-kuila)](https://github.com/sukriti-kuila/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sukriti-kuila&show_icons=true)  
 
