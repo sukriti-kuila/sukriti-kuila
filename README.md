@@ -7,8 +7,8 @@ Hi there 👋, I am Sukriti Kuila from India
  </h2> 
 
 
-- 🌱 I’m currently learning Nodejs 
-- 👯 I’m looking to collaborate on Javascript based project 
+- 🌱 I’m currently learning Spring 
+- 👯 I’m looking to collaborate on Java based project 
 - 😄 Pronouns: He/Him 
 - 💬 Ask me about **anything**
 - 📫 How to reach me **sukritikuila22@gmail.com**
