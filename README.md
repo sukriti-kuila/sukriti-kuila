@@ -63,7 +63,7 @@ Hi there 👋, I am Sukriti Kuila from India
 - 😄 Pronouns: He/Him 
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **sukritikuila22@gmail.com**
-- ⚡ Fun fact: I love to dig into cricket stats 
+- ⚡ Fun fact: I love to crunch the Cricket Numbers
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -95,9 +95,9 @@ Hi there 👋, I am Sukriti Kuila from India
 <p align="center">
 <a href="https://www.linkedin.com/in/sukriti-kuila-8054451b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sukriti%20Kuila-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/sukriti_kuila"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-sukriti__kuila-blue?style=flat-square&logo=twitter"></a>
-<a href="https://leetcode.com/sukriti_kuila/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sukriti__kuila-blue?style=flat-square&logo=leetcode"></a>
-<a href="https://auth.geeksforgeeks.org/user/sukriti22/practice/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-sukriti22-blue?style=flat-square&logo=geeksforgeeks"></a>
-<a href="https://www.hackerrank.com/sukritikuila22"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-sukritikuila22-blue?style=flat-square&logo=hackerrank"></a>
+<a href="https://leetcode.com/skuila22/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sukriti__kuila-blue?style=flat-square&logo=leetcode"></a>
+<a href="https://auth.geeksforgeeks.org/user/skuila22/practice/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-sukriti22-blue?style=flat-square&logo=geeksforgeeks"></a>
+<a href="https://www.hackerrank.com/kuilasukriti2171"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-sukritikuila22-blue?style=flat-square&logo=hackerrank"></a>
  
  <hr/>
 
