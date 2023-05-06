@@ -10,7 +10,6 @@ Hi there 👋, I am Sukriti Kuila from India
 - 🌱 I’m currently learning Spring 
 - 👯 I’m looking to collaborate on Java based project 
 - 😄 Pronouns: He/Him 
-- 💬 Ask me about **anything**
 - 📫 How to reach me **sukritikuila22@gmail.com**
 - ⚡ Fun fact: I crunch the Cricket Numbers
 
