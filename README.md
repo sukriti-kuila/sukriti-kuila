@@ -58,7 +58,7 @@ Hi there 👋, I am Sukriti Kuila from India
 
 
 - 🌱 I’m currently learning Spring 
-- 👯 I’m looking to collaborate on Java based projects 
+- 👯 I’m looking to collaborate on Java-based projects 
 - 😄 Pronouns: He/Him 
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **sukritikuila22@gmail.com**
@@ -75,8 +75,8 @@ Hi there 👋, I am Sukriti Kuila from India
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)   --!>
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
