@@ -67,17 +67,14 @@ Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/8701568
 
 
 
-- 🌱 I’m currently learning Spring 
-- 👯 I’m looking to collaborate on Java-based projects 
-- 😄 Pronouns: He/Him 
-- 📫 How to reach me: **sukritikuila22@gmail.com**
-- ⚡ Fun fact: I love to crunch the Cricket Numbers
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />I’m currently learning Spring 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking to collaborate on Java-based projects 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Pronouns: He/Him 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="25" height="25" /> How to reach me: **sukritikuila22@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Light%20Bulb.webp" alt="Light Bulb" width="25" height="25" /> Fun fact: I love to crunch the Cricket Numbers
   
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h3 style="margin-right: 10px;">🛠 &nbsp;Tech Stack</h3>
-  </div>
-</div>
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> </h2>
 
 
 
@@ -107,11 +104,11 @@ Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/8701568
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-ide&logoColor=2C2255)
 
-<br/>
 
 
 
-## Connect with me
+
+<h2 align="center">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Profiles  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/sukriti-kuila-8054451b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sukriti%20Kuila-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/sukriti_stats"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-sukriti__stats-blue?style=flat-square&logo=twitter"></a>
@@ -121,7 +118,7 @@ Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/8701568
  
 <br/>
 
-<h2 align="center"> Profile Stats </h2>
+<h2 align="center">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"> GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25"  /> </h2>
 <br>
 <p align=center>
   <div align=center>
