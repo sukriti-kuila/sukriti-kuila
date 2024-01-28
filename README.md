@@ -7,7 +7,7 @@ Hi there 👋, I am Sukriti Kuila from India
  </h2> 
 
 
-- 🌱 I’m currently learning Spring 
+- 🌱 I’m currently learning Spring, React 
 - 👯 I’m looking to collaborate on Java based project 
 - 😄 Pronouns: He/Him 
 - 📫 How to reach me **sukritikuila22@gmail.com**
