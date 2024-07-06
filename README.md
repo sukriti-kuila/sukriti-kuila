@@ -54,17 +54,20 @@ Hi there 👋, I am Sukriti Kuila from India
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/87015685/222d43d4-fcdf-4898-bba9-5809d4548d60" alt="gif1">
 </div>
+-->
 
 <h1 align="center">
-Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/87015685/184a47b7-39b1-4eea-a6e8-b6afcf94826b" height="30px">, I am Sukriti Kuila from India 
+Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/87015685/184a47b7-39b1-4eea-a6e8-b6afcf94826b" height="30px">, I am Sukriti Kuila
 </h1>
+
+<!--
 <h2 align="center">
  Backend Dev <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/87015685/984856bd-0364-4f59-a6de-c94d53c74826" height="36px">
  </h2> 
-
+-->
 
 
 -  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />I’m currently learning Spring Boot, ML
