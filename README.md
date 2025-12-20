@@ -59,9 +59,7 @@ Hi there 👋, I am Sukriti Kuila from India
 </div>
 -->
 
-<h1 align="center">
-Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/87015685/184a47b7-39b1-4eea-a6e8-b6afcf94826b" height="30px">, I am Sukriti Kuila
-</h1>
+
 
 <!--
 <h2 align="center">
@@ -70,14 +68,6 @@ Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/8701568
 -->
 
 
--  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" />I’m currently learning Spring Boot, ML
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> I’m looking to collaborate on Java-based projects 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="25" height="25" /> Pronouns: He/Him 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox Tray" width="25" height="25" />
-
-  
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> </h2>
 
 
 
@@ -113,8 +103,8 @@ Hi there <img src="https://github.com/sukriti-kuila/sukriti-kuila/assets/8701568
 
 <h2 align="center">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Profiles  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/sukriti-kuila-8054451b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sukriti%20Kuila-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/sukriti_stats"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-sukriti__stats-blue?style=flat-square&logo=twitter"></a>
+
+
 <a href="https://leetcode.com/skuila22/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-sukriti__kuila-blue?style=flat-square&logo=leetcode"></a>
 <a href="https://auth.geeksforgeeks.org/user/skuila22/practice/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-sukriti22-blue?style=flat-square&logo=geeksforgeeks"></a>
 <a href="https://www.hackerrank.com/kuilasukriti2171"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-sukritikuila22-blue?style=flat-square&logo=hackerrank"></a>
